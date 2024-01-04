@@ -1,0 +1,11 @@
+To run the notebook, follow these steps below
+
+For CNN
+1. Download the model 'MoviePredictionCNN.ipynb'
+2. upload it to jupyter notebook
+3. Run the cells in the notebook to get the accuracy
+
+For BERT
+1. Download the model 'TM_BERT_IMDB.ipynb'
+2. upload it to jupyter notebook
+3. Run the cells in the notebook to get the accuracy
